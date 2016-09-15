@@ -1,2 +1,3 @@
-# montyhall
-Monty hall in Akka
+# Monty hall in Akka
+
+Have fun!
